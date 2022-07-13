@@ -32,11 +32,11 @@ label {
     border: 2px solid silver
 }
 
-/* #btn:active {
+#btn:active {
     text-shadow: 0px -1px 0px #444,0px 0px 5px #ffd,0px 0px 8px #fff;
     box-shadow: 0px 1px 0px #666,0px 2px 0px #444,0px 2px 2px rgba(0, 0, 0, .9);
     -webkit-transform: translateY(3px);
     -moz-transform: translateY(3px);
     -o-transform: translateY(3px);
     transform: translateY(3px);
-} */
+}
