@@ -40,3 +40,26 @@ label {
     -o-transform: translateY(3px);
     transform: translateY(3px);
 }
+
+@media(max-width: 480px) {
+    label {
+        font-size: 1.85rem;
+        text-align: center;
+    }
+
+    #btn {
+        font-size: 1.4rem;
+    }
+}
+
+@media(max-width: 320px) {
+    label {
+        font-size: 1.6rem;
+        text-align: center;
+    }
+
+    #btn {
+        font-size: 1.1rem;
+        margin-top: 2.5rem;
+    }
+}
